@@ -3,7 +3,7 @@
 #### Windows application for download Live stream video from https://app.swag.live/ 
 
 ## Step 1:
-  Download application from [Here](https://drive.google.com/file/d/1jStFo840yHi-tZ2ALmVxEnYlqs43rISQ/view?usp=sharing)(google drive).:toolbox:
+  Download application from [Here](https://drive.google.com/file/d/1mKl55TKWp9rwcfqVzt2SO3GjHoVuH5vp/view?usp=sharing)(google drive).:toolbox:
 
 ## Step 2:
   Install Streamlink.exe
@@ -47,7 +47,7 @@
 #### Windows的程式，用來下載在 https://app.swag.live/ 上的直播影片.
 
 ## 第一步:
-  **下載**[主程式](https://drive.google.com/file/d/1jStFo840yHi-tZ2ALmVxEnYlqs43rISQ/view?usp=sharing)(google drive).:toolbox:
+  **下載**[主程式](https://drive.google.com/file/d/1mKl55TKWp9rwcfqVzt2SO3GjHoVuH5vp/view?usp=sharing)(google drive).:toolbox:
 
 ## 第二步:
   安裝 streamlink.exe
