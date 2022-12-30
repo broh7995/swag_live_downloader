@@ -3,7 +3,7 @@
 #### Windows application for download Live stream video from https://app.swag.live/ 
 
 ## Step 1:
-  Download application from [Here](https://drive.google.com/file/d/1mKl55TKWp9rwcfqVzt2SO3GjHoVuH5vp/view?usp=sharing)(google drive).:toolbox:
+  Download application from [Here](https://drive.google.com/file/d/1u0Mnz_JbDSrRiPziRRQVfuUwjw3virTO/view?usp=share_link)(google drive).:toolbox:
 
 ## Step 2:
   Install Streamlink.exe
